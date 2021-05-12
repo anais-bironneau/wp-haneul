@@ -1,6 +1,6 @@
 # wp-haneul
 
-URL: https://www.wplearning.fr/proanais/
+URL: https://haneul.anaisbironneau.com/
 
 TECH USED: HTML5 / CSS3 / Javascript / Bootstrap / LESS / WORDPRESS
 
